@@ -1,3 +1,6 @@
+//Code by Bethina Dileep 
+//Date:15-08-2021
+
 package com.Dileep;
 
 import java.util.Scanner;
